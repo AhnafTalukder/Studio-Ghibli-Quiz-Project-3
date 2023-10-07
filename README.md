@@ -2,7 +2,7 @@
 
 Submitted by: **Ahnaf Talukder**
 
-This web app: **This is an interactive quiz for people to have fun while testing their knowledge of the famous Studio Ghibli films directed by Hayao Miyazaki. Some award winning titles include Spirited Away, My Neighbor Totoro, and more! The quiz is a game where the player has to unlock as many cards as possible and complete their Ghibli deck. **
+**This is an interactive quiz for people to have fun while testing their knowledge of the famous Studio Ghibli films directed by Hayao Miyazaki. Some award winning titles include Spirited Away, My Neighbor Totoro, and more! The quiz is a game where the player has to unlock as many cards as possible and complete their Ghibli deck. **
 
 
 Time spent: **10** hours spent in total
