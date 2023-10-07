@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import { FormStyle } from './components/ComponentStyles/Form.styled'
 
@@ -44,11 +42,20 @@ function App() {
 
   const incrementCard = () =>{
     if(currentCard < movies.length){
+     
       setCurrentCard(currentCard+1);
+      
+     
     }
     
   }
 
+  const decrementCard = () =>{
+    if(currentCard > 0){
+      setCurrentCard(currentCard-1);
+    }
+    
+  }
 
 
   const handleSubmit = (e) =>{
@@ -114,6 +121,8 @@ function App() {
               <input type="text" value={answer} onChange={(e) => setAnswer(e.target.value)} />
               <button onClick={handleSubmit}>Submit</button>
             </form>
+            <button onClick={decrementCard}>Back</button>
+            <button onClick={incrementCard}>Next</button>
           
        
         </div>
