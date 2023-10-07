@@ -4,9 +4,9 @@ Submitted by: **Ahnaf Talukder**
 
 This web app: **This is an interactive quiz for people to have fun while testing their knowledge of the famous Studio Ghibli films directed by Hayao Miyazaki. Some award winning titles include Spirited Away, My Neighbor Totoro, and more! The quiz is a game where the player has to unlock as many cards as possible and complete their Ghibli deck. **
 
-Time spent: **10** hours spent in total
+# Images used in this project were taken from the official studio ghibli website: https://www.ghibli.jp/ and were only used for personal/educational purposes. 
 
-# Images used in this project were taken from the official studio ghibli website: https://www.ghibli.jp/ and were only used for personal/educational purposes. Please refer to Ghibli's terms before using their images
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -42,11 +42,13 @@ Gif created using Licecap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I wanted to build something that was different from the ordinary Quizlet style, something more gamefied. I recently became fascinated by the diverse patterns that are on the fronts of many card-based games. That's why I wanted to create a game with some kind of card deck that a player must unlock. 
+
+I designed it in Figma, which didn't take me very long since I had a clear idea of what I wanted. Afterwards, I quickly created the CSS layout and styling, which also didn't take that long. What I struggled with the most was impelementing the different states and interactive functionalties that would make everything work. After going through the recorded lecture a couple of times and reading the additonal material, I pieced together all the parts to meet the needs of my project.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ahnaf Talukder]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
