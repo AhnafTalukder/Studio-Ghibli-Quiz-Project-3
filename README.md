@@ -6,7 +6,7 @@ This web app: **This is an interactive quiz for people to have fun while testing
 
 Time spent: **10** hours spent in total
 
-*Images used in this project were taken from the official studio ghibli website: https://www.ghibli.jp/ and were only used for personal/educational purposes. Please refer to Ghibli's terms before using their images*
+# Images used in this project were taken from the official studio ghibli website: https://www.ghibli.jp/ and were only used for personal/educational purposes. Please refer to Ghibli's terms before using their images
 
 ## Required Features
 
