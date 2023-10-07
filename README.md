@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 * [X] List anything else that you added to improve the site's functionality!
 
-- Card deck, card flip, image based form
+- Interactive card deck, card design pattern, image based form
   
       
 
